@@ -1,6 +1,6 @@
 # Splitzy
 
-Making it easy and convienient to accurately split bills among friends, family and colleagues.
+Making it easy and convenient to accurately split bills among friends, family and colleagues.
 
 
 <div align="center">
