@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(205, 246, 250);
+}
+
+.menu {
+    height: 150px;
+}
+
+
+.menu ul {
+    display: inline-flex;
+    margin: 50px;
+}
+
+.menu ul li {
+    list-style: none;
+    margin: 8px;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.menu ul li:hover {
+    border-bottom: 3px solid darkslateblue;
+    text-decoration: none;
+    margin-bottom: 50px;
+    color: #434341;
+    text-underline-offset: false;
+}
+
+
+.logo img {
+    width: 80px;
+    margin-top: -10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+.banner {
+    margin-top: 80px;
+    margin-left: 20px;
+    width: 80%;
+
+    /* top: 35%; */
+    left: 50px;
+    /* bottom: 25px; */
+    position: absolute;
+    color: rgb(69, 69, 69);
+}
+
+.Textss {
+    width: 50%;
+    float: left;
+}
+
+.Textss h1 {
+    width: 640px;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    margin-left: 40px;
+    /* margin-bottom: 15px; */
+}
+
+.Textss p {
+    width: 650px;
+    font-size: larger;
+    margin-left: 40px;
+}
+
+
+.buttons {
+    background-color: darkslateblue;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 30px;
+    max-width: 120px;
+    padding: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.side-logo {
+    margin-top: -105px;
+}
+
+.inputvalue {
+    font-weight: bold;
+}
+
+.formz {
+    background-color: lightsteelblue;
+    padding: 25px 30px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+
+.top-container {
+    height: 300px;
+}
+
+.button2 {
+    background-color: darkslateblue;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 30px;
+    padding: 10px;
+    margin-right: 10px;
+
+    margin-top: 20px;
+    position: center;
+    text-align: center;
+}
+
+input[type=number] {
+
+    border: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 20px;
+    height: 50px;
+    width: 100%;
+}
+
+.people_input_tag,
+.total_bill_input_tag {
+    margin-bottom: 10px;
+    background-color: #434341;
+    color: white;
+    width: 50%;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+
+
+
+.entry_amt {
+    padding: 20px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 20px;
+}
+
+.entry {
+    padding: 20px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 20px;
+}
+
+.entry_label {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.result {
+    background-color: antiquewhite;
+}
+
+.result_tile {
+    background-color: rgb(116, 236, 88);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    counter-reset: black;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 1.2rem;
+}
