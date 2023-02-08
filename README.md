@@ -1,5 +1,12 @@
 # Splitzy
+
 Making it easy and convienient to accurately split bills among friends, family and colleagues.
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/88512639/217618706-883d87eb-eb70-4bdd-bb09-d518e0eb50c4.png" height=400 width=400 />
+</div>
+
 ## Here to make all trips hassle free. 
 - Takes number of people between whoom the bill has to be split as the input.
 - Also the total bill amount is taken as input.
